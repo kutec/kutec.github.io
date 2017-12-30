@@ -3,282 +3,298 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/page/cv/</loc>
+    <loc>https://kutec.github.io/todo/new-post-jekyll-to-hugo---copy/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/todo/new-post-jekyll-to-hugo/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/page/cv/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/code/using-angular-cli-in-cloud9-ide/</loc>
+    <loc>https://kutec.github.io/code/using-angular-cli-in-cloud9-ide/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/code/angularjs-ngif-vs-ngshow/</loc>
+    <loc>https://kutec.github.io/code/angularjs-ngif-vs-ngshow/</loc>
     <lastmod>2017-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/code/defining-javascript-functions-with-namespace/</loc>
+    <loc>https://kutec.github.io/code/defining-javascript-functions-with-namespace/</loc>
     <lastmod>2016-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/journal/jash-fighting-with-a-birth-defect/</loc>
+    <loc>https://kutec.github.io/journal/jash-fighting-with-a-birth-defect/</loc>
     <lastmod>2016-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/project/revamping-teckstack.com/</loc>
+    <loc>https://kutec.github.io/project/revamping-teckstack.com/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/code/fixing-wordpress-media-upload-issue-during-theme-migration/</loc>
+    <loc>https://kutec.github.io/code/fixing-wordpress-media-upload-issue-during-theme-migration/</loc>
     <lastmod>2016-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page/about-kushal-jayswal/</loc>
+    <loc>https://kutec.github.io/page/about-kushal-jayswal/</loc>
     <lastmod>2016-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page/contact/</loc>
+    <loc>https://kutec.github.io/page/contact/</loc>
     <lastmod>2016-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/journal/diwali-2015-at-ujjain/</loc>
+    <loc>https://kutec.github.io/journal/diwali-2015-at-ujjain/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/project/if-i-use/</loc>
+    <loc>https://kutec.github.io/project/if-i-use/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/project/launched-personal-site/</loc>
+    <loc>https://kutec.github.io/project/launched-personal-site/</loc>
     <lastmod>2015-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/author/</loc>
+    <loc>https://kutec.github.io/author/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/2015/</loc>
+    <loc>https://kutec.github.io/tags/2015/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/angular/</loc>
+    <loc>https://kutec.github.io/tags/angular/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/angularjs/</loc>
+    <loc>https://kutec.github.io/tags/angularjs/</loc>
     <lastmod>2017-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/api/</loc>
+    <loc>https://kutec.github.io/tags/api/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/author/</loc>
+    <loc>https://kutec.github.io/author/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/bug/</loc>
+    <loc>https://kutec.github.io/tags/bug/</loc>
     <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://kutec.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/cloud9/</loc>
+    <loc>https://kutec.github.io/tags/cloud9/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/code/</loc>
+    <loc>https://kutec.github.io/code/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/defect/</loc>
+    <loc>https://kutec.github.io/tags/defect/</loc>
     <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/family-time/</loc>
+    <loc>https://kutec.github.io/tags/family-time/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/holidays/</loc>
+    <loc>https://kutec.github.io/tags/holidays/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/ide/</loc>
+    <loc>https://kutec.github.io/tags/ide/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/jash/</loc>
+    <loc>https://kutec.github.io/categories/jash/</loc>
     <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/javascript/</loc>
+    <loc>https://kutec.github.io/categories/javascript/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/journal/</loc>
+    <loc>https://kutec.github.io/journal/</loc>
     <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/js/</loc>
+    <loc>https://kutec.github.io/tags/js/</loc>
     <lastmod>2017-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/kjayz.com/</loc>
+    <loc>https://kutec.github.io/categories/kjayz.com/</loc>
     <lastmod>2015-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <loc>https://kutec.github.io/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/life-event/</loc>
+    <loc>https://kutec.github.io/tags/life-event/</loc>
     <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/namespace/</loc>
+    <loc>https://kutec.github.io/tags/namespace/</loc>
     <lastmod>2016-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/node/</loc>
+    <loc>https://kutec.github.io/tags/node/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/nvm/</loc>
+    <loc>https://kutec.github.io/tags/nvm/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/open-source/</loc>
+    <loc>https://kutec.github.io/categories/open-source/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://kutec.github.io/page/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://kutec.github.io/project/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/restful/</loc>
+    <loc>https://kutec.github.io/tags/restful/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/sad/</loc>
+    <loc>https://kutec.github.io/tags/sad/</loc>
     <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://kutec.github.io/tags/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/teckstack.com/</loc>
+    <loc>https://kutec.github.io/categories/teckstack.com/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/travel/</loc>
+    <loc>https://kutec.github.io/todo/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/travel/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/ujjain/</loc>
+    <loc>https://kutec.github.io/tags/ujjain/</loc>
     <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/update/</loc>
+    <loc>https://kutec.github.io/tags/update/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/wordpress/</loc>
+    <loc>https://kutec.github.io/tags/wordpress/</loc>
     <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/wordpress/</loc>
+    <loc>https://kutec.github.io/categories/wordpress/</loc>
     <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/wp/</loc>
+    <loc>https://kutec.github.io/tags/wp/</loc>
     <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

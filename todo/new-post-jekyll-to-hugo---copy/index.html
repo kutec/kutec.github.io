@@ -17,7 +17,7 @@
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.1/dist/instantsearch.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.1/dist/instantsearch-theme-algolia.min.css">    
-    <title>Kushal Jayswal  | Fixing WordPress Media Upload Issue During Theme Migration</title>
+    <title>Kushal Jayswal  | ABC - BBC</title>
 </head>
 
 <body class="bilberry-hugo-theme">
@@ -101,79 +101,15 @@
      
     <div class="article-wrapper u-cf single">
         
-            <a class="bubble" href="/code/fixing-wordpress-media-upload-issue-during-theme-migration/">
-    <i class="fa fa-fw fa-code"></i>
-</a>
+            <span class="bubble">
+    <i class="fa fa-check"></i>
+</span>
 
-<article class="default article">
+<article class="todo">
     
-
-    <div class="content">
-    <h3><a href="/code/fixing-wordpress-media-upload-issue-during-theme-migration/">Fixing WordPress Media Upload Issue During Theme Migration</a></h3>
-    <div class="meta">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> <span class="date moment" datetime="2016-08-05">2016-08-05</span>
-
-        
-            <span class="categories">
-				<i class="fa fa-folder" aria-hidden="true"></i>
-                
-                    <a href="/categories/wordpress">WordPress</a>
-                
-            </span>
-        
-
-        
-    </div>
-
-    
-        <p></p>
-
-<p>Recently I revamped <a href="http://teckstack.com" target="_blank">my blog</a> with fresh look and that’s <a href="http://materializecss.com/" target="_blank">Material Design</a>. There are still some bugs I am fixing off but overall it looks awesome. You can <a href="mailto:ku@kutec.co.in?subject=TeckStack Design Feedback (Fixing Wordpress Media Upload Issue During Theme Migration)">email me</a> your feedback or just <a target="_blank" href="http://ctt.ec/YhJj7">tweet me</a> your thoughts.</p>
-
-<h2 id="the-issue">The Issue</h2>
-
-<p>As mentioned in the title, the issue was about the upload functionality in Wordpress while moving a theme from local environment to the production. In the local everything works great without any malfunctioning but on production I was getting upload media error.</p>
-
-<ul>
-<li>I could click on the “Add Media” button (above the visual editor section) but when clicking on “Select Files” or dropped files there, nothing was happening!</li>
-<li>It was Tiny MCE script error in Chrome console, but not sure from which plugin it was…</li>
-</ul>
-
-<h2 id="what-i-did">What I Did</h2>
-
-<ol>
-<li>I first took backup of the entire site (including the database)</li>
-<li>Then I renamed the current theme folder name to see whether it’s issue from my theme or not. WordPress enables default theme if it didn’t get currently activated theme in the theme folder. So I tried that and upload was working. So it might be theme issue but yet we cannot say firmly. Hold on…</li>
-<li>Then I again renamed the theme folder to it’s previously given name and appied it again. Later on, I started disabling all the plugins which were adding functionality to the control/admin panel. But yet upload didn’t work.</li>
-<li>Finally I decided to disable all the plugins at once and check. Surprisingly the upload functionality started working. So that’s confirmed now that this is no more theme related issue from my code.</li>
-<li>After that I started activating plugin one-by-one which infect helped me to find a root cuase of the issue.</li>
-</ol>
-
-<p>The issue was coming from <strong>Tiny MCE</strong> script of <a href="https://wordpress.org/plugins/jetpack/" target="_blank">Jetpack plugin</a>. I disabled it and upload functinality has fixed now :).</p>
-
-<p>It took my 3 hours :(</p>
-
-<h3 id="raised-a-ticket-on-wordpress-forum">Raised a ticket on WordPress Forum</h3>
-
-<p><a href="http://bit.ly/2cqHSLx" target="_blank"><a href="http://bit.ly/2cqHSLx">http://bit.ly/2cqHSLx</a></a></p>
-    
-</div>
-
-    
-    
-    <div class="tags">
-        <i class="fa fa-tags"></i>
-        
-            <a href="/tags/wp">WP</a>
-        
-            <a href="/tags/bug">Bug</a>
-        
-            <a href="/tags/defect">Defect</a>
-        
-    </div>
-    
-
-
+    <span>
+        <h4>ABC - BBC</h4>
+    </span>
 </article>
 
         
