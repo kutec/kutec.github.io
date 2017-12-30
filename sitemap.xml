@@ -3,70 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/article/support-me-and-this-theme/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/gallery/my-trip-to-scotland/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/video/kilez-more-leben-und-tod-des-imperialismus/</loc>
-    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/audio/kilez-more-new-wolrd-order/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/page/about-bilberry/</loc>
-    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/page/github/</loc>
+    <loc>https://example.com/page/cv/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/link/duckduckgo/</loc>
-    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <loc>https://example.com/code/using-angular-cli-in-cloud9-ide/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/quote/edward-snowden-privacy/</loc>
-    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <loc>https://example.com/code/angularjs-ngif-vs-ngshow/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/code/installing-bilberry-theme/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <loc>https://example.com/code/defining-javascript-functions-with-namespace/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/article/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <loc>https://example.com/journal/jash-fighting-with-a-birth-defect/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/project/revamping-teckstack.com/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/code/fixing-wordpress-media-upload-issue-during-theme-migration/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/page/about-kushal-jayswal/</loc>
+    <lastmod>2016-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/page/contact/</loc>
+    <lastmod>2016-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/journal/diwali-2015-at-ujjain/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/project/if-i-use/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/project/launched-personal-site/</loc>
+    <lastmod>2015-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/author/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/audio/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+    <loc>https://example.com/tags/2015/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/angular/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/angularjs/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/api/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.com/author/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/bilberry-theme/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <loc>https://example.com/tags/bug/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,194 +110,176 @@
   </url>
   
   <url>
-    <loc>https://example.com/categories/code/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <loc>https://example.com/tags/cloud9/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.com/code/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/author/edward-snowden/</loc>
-    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <loc>https://example.com/tags/defect/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/eilean-donan-castle/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <loc>https://example.com/tags/family-time/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/free-speech/</loc>
-    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <loc>https://example.com/tags/holidays/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/gallery/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <loc>https://example.com/tags/ide/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/glennfinnan-viaduct/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <loc>https://example.com/categories/jash/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/holidays/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <loc>https://example.com/categories/javascript/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <loc>https://example.com/journal/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/income/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <loc>https://example.com/tags/js/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/kilez-more/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/author/lednerb/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/link/</loc>
-    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/music/</loc>
-    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <loc>https://example.com/categories/kjayz.com/</loc>
+    <lastmod>2015-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/life-event/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/namespace/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/node/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/nvm/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/open-source/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.com/page/</loc>
-    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/patreon/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/politics/</loc>
-    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <loc>https://example.com/tags/restful/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/privacy/</loc>
-    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/quote/</loc>
-    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/say-thanks/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/scotland/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/search-engine/</loc>
-    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/society/</loc>
-    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/support/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/survival/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <loc>https://example.com/tags/sad/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/travelling/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <loc>https://example.com/categories/teckstack.com/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/truth-rap/</loc>
-    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+    <loc>https://example.com/categories/travel/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/tutorials/</loc>
-    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <loc>https://example.com/tags/ujjain/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/video/</loc>
-    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <loc>https://example.com/tags/update/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/video/</loc>
-    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <loc>https://example.com/tags/wordpress/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/wordpress/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/wp/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
