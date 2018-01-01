@@ -1,3 +1,4 @@
+call rm -r public
 call hugo
 call git add .
 call git commit -m "hugo"
