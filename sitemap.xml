@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kutec.github.io/todo/new-post-jekyll-to-hugo/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/page/cv/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/code/using-angular-cli-in-cloud9-ide/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/code/angularjs-ngif-vs-ngshow/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/code/defining-javascript-functions-with-namespace/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/journal/jash-fighting-with-a-birth-defect/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/project/revamping-teckstack.com/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/code/fixing-wordpress-media-upload-issue-during-theme-migration/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/page/about-kushal-jayswal/</loc>
+    <lastmod>2016-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/page/contact/</loc>
+    <lastmod>2016-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/journal/diwali-2015-at-ujjain/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/project/if-i-use/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/project/launched-personal-site/</loc>
+    <lastmod>2015-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/author/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/2015/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/angular/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/angularjs/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/api/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/author/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/bug/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/cloud9/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/code/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/defect/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/family-time/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/holidays/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/ide/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/jash/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/javascript/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/journal/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/js/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/kjayz.com/</loc>
+    <lastmod>2015-08-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/life-event/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/namespace/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/node/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/nvm/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/open-source/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/page/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/project/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/restful/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/sad/</loc>
+    <lastmod>2016-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/teckstack.com/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/todo/</loc>
+    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/travel/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/ujjain/</loc>
+    <lastmod>2015-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/update/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/categories/wordpress/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/wordpress/</loc>
+    <lastmod>2015-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kutec.github.io/tags/wp/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
