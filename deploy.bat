@@ -1,7 +1,8 @@
 call hugo
-cp -r public/* hosted
-call cd hosted
-call git remote -v
 call git add .
-call git commit -m "'date()'"
+call git commit -m "hugo"
+call git push
+call cd public
+call git add .
+call git commit -m "hugo public"
 call git push
