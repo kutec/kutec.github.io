@@ -1,9 +1,3 @@
 call rm -r public
-call hugo
-call git add .
-call git commit -m "hugo"
-call git push
-call cd public
-call git add .
-call git commit -m "hugo public"
-call git push https://github.com/kutec/kutec.github.io master:master
+call rm -r generated
+call git status
