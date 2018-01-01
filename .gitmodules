@@ -1,0 +1,3 @@
+[submodule "a/public"]
+	path = a/public
+	url = https://github.com/kutec/kutec.github.io.git
