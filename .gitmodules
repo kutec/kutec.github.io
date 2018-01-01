@@ -1,3 +1,6 @@
-[submodule "a/public"]
-	path = a/public
+[submodule "public"]
+	path = public
 	url = https://github.com/kutec/kutec.github.io.git
+[submodule "themes/bilberry-hugo-theme"]
+	path = themes/bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme.git
