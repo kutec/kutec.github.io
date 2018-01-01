@@ -6,4 +6,4 @@ call git push
 call cd public
 call git add .
 call git commit -m "hugo public"
-call git push
+call git push https://github.com/kutec/kutec.github.io master:master
