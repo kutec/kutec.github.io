@@ -1,0 +1,8 @@
+html { font-size: 62.5%; }
+body { 
+	font-size: 1.4rem;
+	@include rwd(xs){ font-size: 1.2rem; }
+}
+h1   { font-size: 2.4rem; } /* =24px */
+*{ letter-spacing: .1rem; }
+h1 small{ font-size: 1.8rem; }

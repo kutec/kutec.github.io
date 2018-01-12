@@ -1,0 +1,100 @@
+.bilberry-hugo-theme #header {
+  background: #fff;
+  height: auto; }
+  .bilberry-hugo-theme #header nav {
+    display: block;
+    display: flex;
+    width: 100%; }
+  .bilberry-hugo-theme #header .titles {
+    margin-left: 1rem;
+    margin-right: 3rem; }
+  .bilberry-hugo-theme #header .logo {
+    width: 68px;
+    height: 68px;
+    border: 4px solid #333a41c9; }
+.bilberry-hugo-theme .main .article-wrapper {
+  z-index: 1; }
+  .bilberry-hugo-theme .main .article-wrapper .bubble {
+    left: 15px; }
+.bilberry-hugo-theme article {
+  border-radius: 0 4px 4px 0; }
+  .bilberry-hugo-theme article .content {
+    padding: 2rem; }
+
+.container * + * {
+  margin-top: 3rem; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.4rem; }
+  @media (max-width: 767px) and (min-width: 641px) {
+    body {
+      font-size: 1.2rem; } }
+
+h1 {
+  font-size: 2.4rem; }
+
+/* =24px */
+* {
+  letter-spacing: .1rem; }
+
+h1 small {
+  font-size: 1.8rem; }
+
+section #hometop {
+  padding: 0 2rem;
+  background: rgba(119, 136, 153, 0.95);
+  overflow: hidden;
+  margin: 0 auto; }
+  section #hometop .container {
+    color: #fff;
+    text-align: justify;
+    height: auto;
+    height: 100vh; }
+    @media (max-width: 640px) {
+      section #hometop .container {
+        text-align: center; } }
+  section #hometop .logo {
+    margin: 5vh 0 0; }
+    @media (min-width: 1200px) {
+      section #hometop .logo {
+        margin-top: 15vh; } }
+    section #hometop .logo > span {
+      font-size: 24px; }
+  section #hometop .userpic {
+    border-radius: 100rem;
+    border: 3px solid rgba(139, 154, 169, 0);
+    box-shadow: 0 0 10rem rgba(255, 255, 255, 0.5); }
+    section #hometop .userpic + span {
+      margin-right: 1rem; }
+
+.category-js {
+  background: #f7df1e !important; }
+.category-ng {
+  background: #b52e31 !important; }
+
+#header {
+  position: sticky;
+  top: -1px;
+  z-index: 2222; }
+  #header .subtitle {
+    font-size: 1rem; }
+  #header h3 {
+    font-size: 2rem; }
+
+.fb-follow, .t-follow {
+  margin-left: 1rem; }
+
+.lg-side.meta {
+  font-size: 1.2rem;
+  background: #e5e5e5;
+  padding: 7rem .1rem;
+  text-align: center;
+  width: 8%;
+  border-radius: 4px 0 0 4px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); }
+
+/*# sourceMappingURL=main.css.map */
