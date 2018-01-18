@@ -45,14 +45,19 @@ h1 small {
 
 section #hometop {
   padding: 0 2rem;
-  background: rgba(119, 136, 153, 0.95);
   overflow: hidden;
-  margin: 0 auto; }
+  margin: 0 auto;
+  box-shadow: 0 0 100rem #333a41 inset;
+  background: #7d7e7d;
+  background: -moz-linear-gradient(top, #7d7e7d 0%, #0e0e0e 100%);
+  background: -webkit-linear-gradient(top, #7d7e7d 0%, #0e0e0e 100%);
+  background: linear-gradient(to bottom, #7d7e7d 0%, #0e0e0e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=0 ); }
   section #hometop .container {
     color: #fff;
     text-align: justify;
     height: auto;
-    height: 100vh; }
+    height: calc(100vh - 96px); }
     @media (max-width: 640px) {
       section #hometop .container {
         text-align: center; } }
@@ -96,6 +101,8 @@ section #hometop {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); }
 .bilberry-hugo-theme .main:before {
   left: 58px; }
+.bilberry-hugo-theme .main:after {
+  left: 50px; }
 .bilberry-hugo-theme .main .article-wrapper .bubble {
   border: 0;
   background: #7b7b7b99;
