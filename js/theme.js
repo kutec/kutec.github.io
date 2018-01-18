@@ -28,8 +28,8 @@
 	
 	//category filters
 	$('.categories a').each(function () {
-		catBranding($(this), 'JavaScript', 'JS');
-		catBranding($(this), 'angular', 'NG');
+		catBranding($(this), 'JavaScript', 'JavaScript');
+		catBranding($(this), 'angular', 'Angular 2+');
 	});
 	
 	function catBranding(el, cat, newCat){

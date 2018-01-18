@@ -15,7 +15,7 @@
 .bilberry-hugo-theme .main .article-wrapper {
   z-index: 1; }
   .bilberry-hugo-theme .main .article-wrapper .bubble {
-    left: 15px; }
+    left: 22px; }
 .bilberry-hugo-theme article {
   border-radius: 0 4px 4px 0; }
   .bilberry-hugo-theme article .content {
@@ -75,26 +75,30 @@ section #hometop {
 .category-ng {
   background: #b52e31 !important; }
 
-#header {
+.bilberry-hugo-theme #header {
   position: sticky;
   top: -1px;
   z-index: 2222; }
-  #header .subtitle {
+  .bilberry-hugo-theme #header .subtitle {
     font-size: 1rem; }
-  #header h3 {
+  .bilberry-hugo-theme #header h3 {
     font-size: 2rem; }
-
-.fb-follow, .t-follow {
+.bilberry-hugo-theme .fb-follow, .bilberry-hugo-theme .t-follow {
   margin-left: 1rem; }
-
-.lg-side.meta {
+.bilberry-hugo-theme .lg-side.meta {
   font-size: 1.2rem;
   background: #e5e5e5;
   padding: 7rem .1rem;
   text-align: center;
-  width: 8%;
+  width: 12%;
   border-radius: 4px 0 0 4px;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); }
+.bilberry-hugo-theme .main:before {
+  left: 58px; }
+.bilberry-hugo-theme .main .article-wrapper .bubble {
+  border: 0;
+  background: #7b7b7b99;
+  box-shadow: 2px 3px 0 #00000026 inset; }
 
 /*# sourceMappingURL=main.css.map */
