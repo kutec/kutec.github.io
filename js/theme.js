@@ -34,10 +34,11 @@
 	
 	function catBranding(el, cat, newCat){
 		if (el.text().toLowerCase() == cat.toLowerCase()) {
-			//$this.parent().show();
-console.log(cat);			
 			el.text(newCat);
-			el.parents('.meta.lg-side').addClass('category-' + newCat.toLowerCase());
+			el.parents('.meta.lg-side').addClass('category-' + cat.toLowerCase());
+            console.log(el.parents('.article-wrapper').find('.bubble'));
+            el.parents('.article-wrapper').find('.bubble').addClass('i-' + cat.toLowerCase());
+            el.parents('.article-wrapper').find('.bubble').find('img').hide().attr('src', 'images/i/i-' + cat.toLowerCase() + '.png').show();
 		}
 	}
 }) (jQuery);

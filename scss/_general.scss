@@ -17,7 +17,7 @@
 		&.meta {
 			font-size: 1.2rem;
 			background: #e5e5e5;
-			padding: 7rem .1rem;
+			padding: 7rem .1rem 2rem;
 			text-align: center;
 			width: 12%;
 			border-radius: 4px 0 0 4px;
@@ -30,13 +30,19 @@
 			left: 58px;
 		}
         &:after{
-            left: 50px;
+            left: 49px;
         }
 		.article-wrapper{
 			.bubble{
 				border: 0;
 				background: #7b7b7b99;
 				box-shadow: 2px 3px 0 #00000026 inset;
+                max-width: 45px;
+                max-height: 45px;
+                overflow: hidden;
+                > img{
+                    max-width: 32px;
+                }
 			}
 		}
 	}

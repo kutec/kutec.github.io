@@ -75,9 +75,9 @@ section #hometop {
     section #hometop .userpic + span {
       margin-right: 1rem; }
 
-.category-js {
+.category-javascript {
   background: #f7df1e !important; }
-.category-ng {
+.category-angular {
   background: #b52e31 !important; }
 
 .bilberry-hugo-theme #header {
@@ -93,7 +93,7 @@ section #hometop {
 .bilberry-hugo-theme .lg-side.meta {
   font-size: 1.2rem;
   background: #e5e5e5;
-  padding: 7rem .1rem;
+  padding: 7rem .1rem 2rem;
   text-align: center;
   width: 12%;
   border-radius: 4px 0 0 4px;
@@ -102,10 +102,15 @@ section #hometop {
 .bilberry-hugo-theme .main:before {
   left: 58px; }
 .bilberry-hugo-theme .main:after {
-  left: 50px; }
+  left: 49px; }
 .bilberry-hugo-theme .main .article-wrapper .bubble {
   border: 0;
   background: #7b7b7b99;
-  box-shadow: 2px 3px 0 #00000026 inset; }
+  box-shadow: 2px 3px 0 #00000026 inset;
+  max-width: 45px;
+  max-height: 45px;
+  overflow: hidden; }
+  .bilberry-hugo-theme .main .article-wrapper .bubble > img {
+    max-width: 32px; }
 
 /*# sourceMappingURL=main.css.map */
